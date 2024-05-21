@@ -1,0 +1,4 @@
+#Tue May 21 12:35:15 WEST 2024
+base.0=/Users/mac/Desktop/uiecom/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

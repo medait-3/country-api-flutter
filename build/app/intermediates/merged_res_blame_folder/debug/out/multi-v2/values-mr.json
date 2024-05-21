@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/Desktop/uiecom/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/9a71f4f0e75a6fe72fdf5a49e5524dda/transformed/core-1.6.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
